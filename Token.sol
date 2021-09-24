@@ -1,7 +1,6 @@
 /**
  * CinemaDraft Token
  *
- * author: Solulab Inc. - Umang Ajmera
  * 
  * This is a rewrite of Safemoon contract in the hope to:
  *
